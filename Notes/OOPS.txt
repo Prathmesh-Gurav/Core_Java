@@ -1,0 +1,20 @@
+Object-A Java object is a member of a Java class.
+
+Class-is a template used to create objects and to 
+define object data types and methods
+
+inheritance-one object acquires all the properties
+and behaviors of a parent object
+
+polymorphism-is a concept by which we can perform 
+a single action in different ways
+
+Encapsulation-is a process of wrapping code and 
+data together into a single unit
+
+Abstraction-It is a process of hiding the implementation 
+details and showing only functionality to the user
+
+inline CSS.
+Internal CSS.
+External CSS

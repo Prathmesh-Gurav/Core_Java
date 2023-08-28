@@ -1,0 +1,41 @@
+Algo1 :Display area and perimeter of rectangle
+
+Step 1 - START
+Step 2 - Declare length,breath,perimeter,area.
+Step 3 - Read length and breath.
+Step 4 - Calculate area using frmula: Area=length*breath
+Step 5 - Claculate perimeter using formula: perimeter=2*length+2*breath
+Step 6 - Print area and perimeter.
+Step 8 - STOP
+
+Algo2 :Convert the temperature in Fahrenheit to Celsius
+
+START
+Step 1 - Take an integer variable TinFahrenheit,Coutput.
+Step 2 - Assign the value to the variable TinFahrenheit.
+Step 3 - Do operation = (5(F-32))/9
+Step 4 - Assign the result of step 3 in Coutput.
+STOP
+
+Algo3 :Swap two numbers using third variable.
+
+Step 1 - Start
+Step 2 - Declare num1,num2.tenp.
+Step 3 - Read num1 and num2
+Step 4 - Assign num1= temp.
+Step 5 - Assign num2= num1,temp=num1.
+Step 6 - Print num1 and num2
+Step 7 - STOP
+
+Algo4 :Swap two numbers without using third variable
+
+START
+Step 1 - Take an integer variable x and y.
+Step 2 - Assign the value to the variable x and y.
+Step 3 - Do operation x=x+y
+Step 4 - Do operation y= x - y
+Step 5 - Do operation x =x - y
+Step 6 - print x and y.
+STOP
+
+

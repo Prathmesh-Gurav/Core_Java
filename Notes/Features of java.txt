@@ -1,0 +1,41 @@
+1.4.Platform independent
+Java supports (WORA) Write Once and Run Anywhere .
+Java code is compiled by the compiler and converted into bytecode(.class file). 
+This bytecode is a platform-independent code because it can be run on multiple platforms
+
+1.Simple:
+Java syntax is based on C++ (so easier for programmers to learn it after C++).
+Java has removed many complicated and rarely-used features like explicit pointers, operator overloading, etc.
+There is no need to remove unreferenced objects because there is an Automatic Garbage Collection in Java
+
+3.2.Object-Oriented
+It provides realtime etity
+It is a methodology that simplifies software development and maintenance by providing some rules.
+Basic concepts of OOPs are:
+Object
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+3.Portable
+it facilitates us to carry the Java bytecode to any platform. It doesn't require any implementation.
+
+
+
+5.Secured
+Because It dosent have explicit pointer
+Bytecode Verifier
+Security Manager
+
+2.6.Robust
+Java provides automatic garbage collection
+It uses strong memory management.
+it dosent supports pointers so that it avoids security problems.
+
+7.Architecture neutral
+it occupies 4 bytes of memory for both 32 and 64-bit architectures in Java.
+
+8.Multithreaded
+user can write Java programs that deal with many tasks at once by defining multiple threads
